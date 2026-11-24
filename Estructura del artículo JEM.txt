@@ -1,0 +1,12 @@
+Estructura del artículo
+
+Resumen
+Sección Introducción (sin este título)
+Previous Literature (puede ser un título específico)
+Purpose of Study (puede incluir Research Questions y varias secciones con subtítulos)
+Methods
+Results
+Discussion
+Limitations and future research
+Conflicts of Interest Statement
+References
