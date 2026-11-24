@@ -1,0 +1,257 @@
+REFERENCIAS SOBRE PUNTOS DE CORTE EN
+JOURNAL OF EDUCATIONAL MEASUREMENT
+
+1. Artículos recientes (2025-2026)
+1. Grochowalski et al. (2026)
+Grochowalski, J. H., Ventura, C., Sarac, M., & Hendrickson, A. (2026). KSA profiles for standard setting: A generative AI approach to empirically grounded cut score evaluation. Journal of Educational Measurement, 63(3), e70058.
+
+https://doi.org/10.1111/jedm.70058
+
+Contenido: propone la utilización de modelos generativos de inteligencia artificial para aportar evidencia empírica sobre los conocimientos, habilidades y capacidades asociados a diferentes niveles de desempeño y evaluar la pertinencia de los puntos de corte.
+
+Es especialmente interesante por la incorporación de nuevas herramientas metodológicas al establecimiento de estándares. 
+Wiley Online Library
+
+2. Grochowalski et al. (2025)
+Grochowalski, J. H., Wan, L., Molin, L., & Hendrickson, A. H. (2025). The precision and bias of cut score estimates from the Beuk standard setting method. Journal of Educational Measurement, 62(4), 687–717.
+
+https://doi.org/10.1111/jedm.70007
+
+Contenido: desarrolla un procedimiento para estimar intervalos de confianza de los puntos de corte obtenidos mediante el método de Beuk y estudia mediante simulaciones:
+- Sesgo y precisión de los estimadores.
+- Número de jueces.
+- Grado de acuerdo entre los expertos.
+- Localización de los puntos de corte.
+- Influencia de la distribución de las puntuaciones.
+Relevancia muy alta para Cloud Delphi. Este trabajo es un antecedente particularmente importante para fundamentar el estudio de las propiedades estadísticas de los estimadores de puntos de corte. 
+Wiley Online Library
+
+3. Optimizing operational cut scores (2026)
+Optimizing operational cut scores under misclassification costs and retake policies using IRT-based conditional uncertainty. (2026). Journal of Educational Measurement, 63, e70056.
+
+https://doi.org/10.1111/jedm.70056
+
+Contenido: optimización de los puntos de corte operacionales considerando los costos de clasificación incorrecta y la incertidumbre condicional de los estimadores de habilidad en TRI. Utiliza bootstrap paramétrico para aproximar distribuciones muestrales condicionales.
+
+Es interesante distinguir aquí dos fuentes de incertidumbre: la asociada a la estimación del punto de corte y la asociada a la estimación del rasgo latente de los examinados. 
+Wiley Online Library
+
+2. Propuestas metodológicas para el establecimiento de puntos de corte
+4. Skaggs et al. (2016)
+Skaggs, G., Hein, S. F., & Wilkins, J. L. M. (2016). Diagnostic profiles: A standard setting method for use with a cognitive diagnostic model. Journal of Educational Measurement, 53(4), 448–458.
+
+https://doi.org/10.1111/jedm.12125
+
+Propone un método de establecimiento de estándares basado en modelos de diagnóstico cognitivo. Los expertos evalúan perfiles de dominio de atributos en lugar de emitir juicios sobre probabilidades de respuesta a ítems individuales. Los resultados se comparan experimentalmente con el método Angoff modificado. 
+Wiley Online Library
+
+5. Wang (2003)
+Wang, N. (2003). Use of the Rasch IRT model in standard setting: An item-mapping method. Journal of Educational Measurement, 40(3), 231–253.
+
+https://doi.org/10.1111/j.1745-3984.2003.tb01106.x
+
+Propone un método de establecimiento de estándares mediante la localización de los ítems en la escala del modelo de Rasch. Compara la metodología con Bookmark y Angoff, obteniendo resultados favorables en cuanto a la consistencia y el acuerdo entre jueces. 
+Wiley Online Library
+
+6. Plake e Impara (1997)
+Plake, B. S., & Impara, J. C. (1997). Standard setting: An alternative approach. Journal of Educational Measurement, 34(4), 353–366.
+
+https://doi.org/10.1111/j.1745-3984.1997.tb00523.x
+
+Propone una modificación del método Angoff en la que los jueces realizan valoraciones dicotómicas en lugar de estimar probabilidades de respuesta correcta. Estudia la simplificación de la tarea cognitiva encomendada a los expertos. 
+ERIC+1
+
+7. Beuk (1984)
+Beuk, C. H. (1984). A method for reaching a compromise between absolute and relative standards in examinations. Journal of Educational Measurement, 21(2), 147–152.
+
+https://doi.org/10.1111/j.1745-3984.1984.tb00226.x
+
+Artículo original del método de Beuk, que combina juicios sobre el nivel de desempeño requerido y la proporción de examinados que deberían alcanzar dicho nivel. Constituye un antecedente clásico de los métodos de compromiso. 
+Wiley Online Library
+
+3. Modelización estadística y calidad de los juicios de expertos
+Estos trabajos son particularmente pertinentes para fundamentar una metodología que incorpore explícitamente la incertidumbre y la severidad de los jueces.
+8. Wyse y Babcock (2019)
+Wyse, A. E., & Babcock, B. (2019). A method for detecting regression of hard and easy item Angoff ratings. Journal of Educational Measurement, 56(1).
+
+https://doi.org/10.1111/jedm.12199
+
+Desarrolla índices estadísticos para detectar la tendencia de los jueces a emitir valoraciones desplazadas hacia el centro de la escala de probabilidades. Incluye simulaciones y aplicaciones a datos reales, considerando también las modificaciones de los juicios entre rondas sucesivas.
+
+Relevancia muy alta: permite fundamentar la existencia de distorsiones sistemáticas en las valoraciones de los expertos, que no necesariamente se resuelven mediante sucesivas rondas de retroalimentación. 
+Wiley Online Library
+
+9. Clauser et al. (2017)
+Clauser, B. E., Baldwin, P., Margolis, M. J., Mee, J., & Winward, M. (2017). An experimental study of the internal consistency of judgments made in bookmark standard setting. Journal of Educational Measurement, 54(4), 481–497.
+
+https://doi.org/10.1111/jedm.12157
+
+Estudia experimentalmente la consistencia interna de los juicios emitidos mediante el método Bookmark. Encuentra que los puntos de corte pueden depender sistemáticamente de la dificultad del conjunto de ítems presentado a los expertos.
+
+Relevancia muy alta: cuestiona algunos supuestos implícitos del método Bookmark y muestra la necesidad de modelizar las fuentes de variabilidad de los juicios. 
+Wiley Online Library
+
+10. Clauser et al. (2009)
+Clauser, B. E., Mee, J., Baldwin, S. G., Margolis, M. J., & Dillon, G. F. (2009). Judges' use of examinee performance data in an Angoff standard-setting exercise for a medical licensing examination: An experimental study. Journal of Educational Measurement, 46(4), 390–407.
+
+Acceso al número de la revista
+
+Estudia cómo los jueces utilizan la información empírica sobre el desempeño de los examinados durante un procedimiento Angoff.
+
+Es pertinente para justificar procedimientos iterativos que incorporen retroalimentación estadística a los jueces. 
+Wiley Online Library
+
+11. Van Nijlen y Janssen (2008)
+Van Nijlen, D., & Janssen, R. (2008). Modeling judgments in the Angoff and contrasting-groups method of standard setting. Journal of Educational Measurement, 45(1), 45–63.
+
+Texto completo de acceso libre (PDF)
+
+Propone una modelización de los juicios de expertos utilizando regresión probit con efectos aleatorios. Analiza la relación entre las valoraciones de los expertos y las posiciones de los ítems o examinados en la escala latente.
+
+Relevancia muy alta: posiblemente uno de los antecedentes más cercanos al enfoque de modelizar estadísticamente los juicios, en lugar de limitarse a agregarlos. 
+ERIC
+
+12. Clauser et al. (2002)
+Clauser, B. E., Swanson, D. B., & Harik, P. (2002). Multivariate generalizability analysis of the impact of training and examinee performance information on judgments made in an Angoff-style standard-setting procedure. Journal of Educational Measurement, 39(4), 269–290.
+
+Acceso al número de la revista
+
+Utiliza la teoría multivariada de la generalizabilidad para estudiar la influencia de la capacitación y de la información sobre el desempeño de los examinados en los juicios de los expertos.
+
+Es un antecedente metodológico importante para estudiar componentes de varianza. 
+Wiley Online Library
+
+13. Impara y Plake (1998)
+Impara, J. C., & Plake, B. S. (1998). Teachers' ability to estimate item difficulty: A test of the assumptions in the Angoff standard setting method. Journal of Educational Measurement, 35(1), 69–81.
+
+https://doi.org/10.1111/j.1745-3984.1998.tb00528.x
+
+Evalúa la capacidad de los expertos para estimar las probabilidades de respuesta correcta de los estudiantes. Los resultados ponen de manifiesto las dificultades de los jueces para realizar estimaciones precisas, especialmente cuando deben referirse a estudiantes situados en el límite del estándar.
+
+Es una referencia importante para justificar metodologías alternativas de elicitación de juicios. 
+Wiley Online Library
+
+4. Comparación de métodos
+14. Buckendahl et al. (2002)
+Buckendahl, C. W., Smith, R. W., Impara, J. C., & Plake, B. S. (2002). A comparison of Angoff and Bookmark standard setting methods. Journal of Educational Measurement, 39(3), 253–263.
+
+https://doi.org/10.1111/j.1745-3984.2002.tb01177.x
+
+Compara variantes simplificadas de Angoff y Bookmark mediante una aplicación a una prueba de matemática. Introduce también una estrategia alternativa para ordenar los ítems en el procedimiento Bookmark.
+
+Es una referencia apropiada para fundamentar la comparación de un nuevo método con procedimientos tradicionales. 
+Wiley Online Library
+
+15. Replicabilidad de los resultados del método Angoff
+An examination of the replicability of Angoff standard setting results within a generalizability theory framework.
+
+Este trabajo analiza la estabilidad de los resultados obtenidos mediante Angoff cuando se modifica el panel de expertos o la ocasión de evaluación. Es especialmente pertinente para estudiar la reproducibilidad de los puntos de corte y sus fuentes de variación. 
+Search Results
+
+5. Fundamentos históricos del establecimiento de estándares
+Un hallazgo importante de la búsqueda es que JEM dedicó un número especial al establecimiento de estándares en 1978 (volumen 15, número 4). Este número contiene ocho trabajos que discuten los fundamentos y la legitimidad de establecer puntos de corte en pruebas referidas a criterios. 
+Academias Nacionales
+
+16. Hambleton (1978)
+Hambleton, R. K. (1978). On the use of cut-off scores with criterion-referenced tests in instructional settings. Journal of Educational Measurement, 15(4), 277–290.
+
+https://doi.org/10.1111/j.1745-3984.1978.tb00075.x
+
+Discute los fundamentos de la utilización de puntos de corte en pruebas referidas a criterios, así como sus implicaciones para la toma de decisiones educativas. 
+Wiley Online Library
+
+17. Glass (1978)
+Glass, G. V. (1978). Standards and criteria. Journal of Educational Measurement, 15(4), 237–261.
+
+https://doi.org/10.1111/j.1745-3984.1978.tb00072.x
+
+Presenta una crítica a la arbitrariedad de los estándares establecidos mediante juicios de expertos. Constituye una referencia histórica para discutir la necesidad de fundamentar teórica y empíricamente los puntos de corte. 
+Wiley Online Library
+
+6. Antecedentes adicionales de interés metodológico
+He identificado también los siguientes artículos publicados en JEM, algunos de los cuales merecen especial atención por su conexión con la TRI y la modelización de los expertos.
+Año	Artículo	Acceso
+1982	A latent trait method for determining intrajudge inconsistency in the Angoff and Nedelsky techniques of standard setting	DOI 
+Taylor & Francis Online
+1987	On the use of IRT models with judgmental standard setting procedures	Artículo 
+ResearchGate
+1987	A comparison of three variations on a standard-setting method	DOI 
+OpenAlex
+1988	The effect of various factors on standard setting	DOI 
+Taylor & Francis Online
+1988	A note on the application of multiple matrix sampling to standard setting	DOI 
+Wiley Online Library
+1990	Equivalent pass/fail decisions	Artículo 
+OpenAlex
+2000	Consistency of Angoff-based predictions of item performance: Evidence of technical quality of results from the Angoff standard setting method	Artículo 
+Wiley Online Library
+2016	Maintaining equivalent cut scores for small sample test forms	DOI 
+Wiley Online Library
+2016	Does maximizing information at the cut score always maximize classification accuracy and consistency?	DOI 
+EBSCOhost
+
+Otros tres antecedentes especialmente relevantes
+27. Kane (1987). On the use of IRT models with judgmental standard setting procedures. Journal of Educational Measurement, 24(4), 333–345.
+
+https://doi.org/10.1111/j.1745-3984.1987.tb00284.x
+
+Referencia particularmente importante por estudiar la utilización de modelos TRI en el análisis y la agregación de juicios de expertos. Corresponde al segundo artículo de la tabla anterior, cuya identificación bibliográfica he podido completar. 
+EBSCOhost+1
+
+
+28. Clauser, Margolis y Clauser (2014). An examination of the replicability of Angoff standard setting results within a generalizability theory framework. Journal of Educational Measurement, 51(2), 127–140.
+
+https://doi.org/10.1111/jedm.12038
+
+Corresponde al artículo 15 de la lista anterior. Muestra que ignorar la variabilidad entre paneles puede conducir a estimaciones demasiado optimistas de la precisión de los puntos de corte. 
+Wiley Online Library
+
+
+29. Clauser, Kane y Clauser (2020). Examining the precision of cut scores within a generalizability theory framework: A closer look at the item effect.
+
+Analiza la precisión de los puntos de corte mediante teoría de la generalizabilidad, prestando particular atención al efecto de los ítems. 
+Search Results
+
+
+30. Exploring the influence of judge proficiency on standard-setting judgments (2019).
+
+https://doi.org/10.1111/jedm.12202
+
+Este artículo merece especial atención. Utiliza el modelo de Rasch de múltiples facetas (Many-Facet Rasch Model) para ajustar las valoraciones obtenidas mediante Angoff modificado, considerando el nivel de competencia de los jueces. 
+Wiley Online Library
+
+
+31. Plake y Kane (1991). Comparison of methods for combining the minimum passing levels for individual items into a passing score for a test. Journal of Educational Measurement, 28(4).
+
+Referencia bibliográfica
+
+Compara mediante simulaciones diferentes procedimientos de agregación y ponderación de los juicios. Es especialmente relevante para estudiar la conveniencia de utilizar estimadores ponderados frente a estimadores tradicionales. 
+Search Results
+
+7. Artículos que priorizaría para nuestro trabajo sobre Cloud Delphi
+De todos los artículos encontrados, seleccionaría inicialmente los siguientes diez, ordenados según su pertinencia para nuestro desarrollo metodológico, no según su impacto bibliométrico.
+Prioridad	Artículo	Contribución a nuestra investigación
+1	Grochowalski et al. (2025)	Sesgo, precisión e intervalos de confianza de los estimadores.
+2	Exploring the influence of judge proficiency (2019)	Ajuste de las valoraciones de los jueces mediante modelos estadísticos.
+3	Plake y Kane (1991)	Agregación y ponderación de juicios.
+4	Van Nijlen y Janssen (2008)	Modelización probabilística de los juicios.
+5	Van der Linden (1982)	Inconsistencia individual de los expertos.
+6	Kane (1987)	Integración de la TRI con los juicios.
+7	Clauser et al. (2020)	Componentes de varianza y precisión.
+8	Clauser et al. (2014)	Replicabilidad y variabilidad entre paneles.
+9	Wyse y Babcock (2019)	Sesgos sistemáticos de las valoraciones.
+10	Wang (2003)	Propuesta de un método alternativo basado en TRI.
+
+Completo además el DOI del artículo de Clauser et al. (2020): 10.1111/jedm.12247, y la autoría del artículo de 2026 sobre optimización de puntos de corte: Peter Baldwin y Brian E. Clauser. 
+ETS+1
+
+8. Pertinencia de JEM para publicar nuestro artículo
+La búsqueda permite observar que existe una tradición de investigación en esta revista que se alinea con varias de las componentes de nuestro trabajo:
+- Elicitación de juicios: utilización de intervalos en lugar de valoraciones puntuales.
+- Modelización probabilística: representación de la incertidumbre mediante el modelo de nube normal truncada.
+- Corrección de sesgos: estimación explícita de la severidad o indulgencia de los jueces.
+- Agregación ponderada: incorporación de la incertidumbre individual en la ponderación de las valoraciones.
+- Integración con TRI: transformación de los juicios en estimaciones de puntos de corte sobre la escala latente.
+- Propiedades estadísticas: sesgo, consistencia, varianza, distribución asintótica e intervalos de confianza de los estimadores.
+- Estudios de simulación: evaluación de la recuperación de los parámetros bajo diferentes escenarios.
+Considero que el artículo de Grochowalski et al. (2025) es particularmente importante, incluso como referencia para la estructura de nuestro artículo, dado que aborda explícitamente las propiedades estadísticas de los estimadores de puntos de corte de un método de standard setting.
