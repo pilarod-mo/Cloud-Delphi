@@ -25,6 +25,9 @@ articulo <- r"---(\documentclass[11pt,a4paper]{article}
 This study presents a formulation of the weighted Cloud Delphi method for standard setting by integrating expert judgment and item response theory (IRT). The procedure represents judgment intervals through expectation, entropy, and hyperentropy, and maps conceptual boundaries onto the ability scale using two local estimators. Simulation scenarios E0--E7 and a hierarchical extension whose evaluation remains pending are described.
 \end{abstract}
 
+\begin{Introduction}
+xxxxxxxxxxxxxxxxxxxxxxxxx
+\end{Introduction}
 
 Standard setting is a central problem in educational measurement because it determines the interpretation of scores and supports consequential decisions in large-scale assessment. In particular, cut scores allow examinees to be classified into qualitatively distinct performance levels, which is essential for diagnosis, certification, and educational policy development \\citep{ferrara2026,pant2009,rodriguez2025}. Despite methodological advances over recent decades \\citep{cizek2007}, this process remains debated, largely because of the sensitivity of results to the methods employed and the variability inherent in expert judgment \\citep{jaeger1989,cizek2007}.
 
